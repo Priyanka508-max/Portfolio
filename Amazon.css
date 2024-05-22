@@ -1,0 +1,34 @@
+body{
+    background-image: url("/3.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.amazon{
+    /* background-color: aqua; */
+    color:aqua;
+    justify-content: center;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    height: 600px;
+    justify-content: center;
+    align-items: baseline;
+    padding: 5em;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.amazon h4{
+    font-size: 4rem;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.amazon p{
+    font-size: 1.4rem;
+    font-weight: 400;
+    max-height: 100px;
+}

@@ -1,0 +1,9 @@
+.burn{
+    background-image: url("fire1.gif");
+    background-size: cover;
+    background-position: center;
+    color: transparent;
+    background-clip: text;
+    -webkit-background-clip: text;
+ padding-top: 10px;
+}
